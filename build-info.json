@@ -1,11 +1,10 @@
 {
   "build": "github-pages",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "generated": "2026-08-02",
-  "method": "Notes \u2192 Topicals \u2192 Past Papers",
-  "questionImages": 4136,
-  "files": 4147,
-  "questionImageFormat": "optimized-png",
-  "questionImageMaxWidth": 400,
-  "workspaceSafePackage": true
+  "method": "Notes → Topicals → Past Papers",
+  "architecture": "main-branch static app + restricted Cloudflare Worker + bundled PDF.js 3.11.174",
+  "catalogueSubjects": 105,
+  "liveQuestions": 48217,
+  "bundledQuestionImages": 0
 }
