@@ -1,0 +1,11 @@
+{
+  "build": "github-pages",
+  "version": "3.0.0",
+  "generated": "2026-08-02",
+  "method": "Notes \u2192 Topicals \u2192 Past Papers",
+  "questionImages": 4136,
+  "files": 4147,
+  "questionImageFormat": "optimized-png",
+  "questionImageMaxWidth": 400,
+  "workspaceSafePackage": true
+}
